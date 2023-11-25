@@ -1,10 +1,13 @@
-The default registrion form includes the following fields:
+<h2>The default registrion form includes the following fields:</h2>
 
+<ul>
+<li>Username</li>
 
-Username
+<li>Email</li>
 
-Email
-Password
-Confirm Password
+<li>Password</li>
 
-You can add or remove fields based on your specific registration requirements.
+<li>Confirm Password</li>
+</ul>
+
+<h2>You can add or remove fields based on your specific registration requirements.</h2>
